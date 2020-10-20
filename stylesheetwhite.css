@@ -1,0 +1,14 @@
+body {
+  background-color: white;
+}
+a:link {
+        position :relative;
+        color: black;
+        background-color: transparent;
+        text-decoration: none;
+      }
+      a:visited{
+      color: black;
+        background-color: tranparent;
+        text-decoration: none;
+      }
